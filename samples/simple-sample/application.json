@@ -1,7 +1,0 @@
-{
-  "id": "/test",
-  "cpus": 0.001,
-  "instances": 1,
-  "mem": 128,
-  "cmd": "sleep 1000"
-}
